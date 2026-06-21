@@ -1,14 +1,15 @@
 # FinalIntegrador_TUT_PROGRAMACION
-Trabajo Intregador Final
-Integrantes del equipo
+# Trabajo Intregador Final
+# Integrantes del equipo
+
 Juan Bautista Goldstein,
 Ruben Dario Cabrera,
 Facundo Corvalan Moon.
-Carrera
+# Carrera
 Técnicatura en Telecomunicaciones
 
-Materia
+# Materia
 Programación
 
-Programa Utilizado
+# Programa Utilizado
 PseInt y Google Colab
