@@ -3,9 +3,7 @@
 ## Integrantes del equipo
 
 * Juan Bautista Goldstein
-
 * Ruben Dario Cabrera
-
 * Facundo Corvalan Moon
 ## Carrera
 Técnicatura en Telecomunicaciones
