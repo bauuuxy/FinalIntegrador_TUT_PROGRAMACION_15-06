@@ -2,9 +2,9 @@
 ## Trabajo Intregador Final
 ## Integrantes del equipo
 
-Juan Bautista Goldstein,
-Ruben Dario Cabrera,
-Facundo Corvalan Moon.
+*Juan Bautista Goldstein
+*Ruben Dario Cabrera
+*Facundo Corvalan Moon
 ## Carrera
 Técnicatura en Telecomunicaciones
 ## Materia
